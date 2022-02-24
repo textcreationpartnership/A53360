@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of high misdemeanour humbly offered and presented to the consideration of His Sacred Majesty; and the right honourable Privy Council against Sir William Scroggs ... by Dr. Titus Oats &amp;c.</title>
+            <author>Oates, Titus, 1649-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53360</idno>
+            <idno type="STC">Wing O31A</idno>
+            <idno type="STC">ESTC R31764</idno>
+            <idno type="EEBO-CITATION">12255267</idno>
+            <idno type="OCLC">ocm 12255267</idno>
+            <idno type="VID">57384</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53360)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57384)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1509:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of high misdemeanour humbly offered and presented to the consideration of His Sacred Majesty; and the right honourable Privy Council against Sir William Scroggs ... by Dr. Titus Oats &amp;c.</title>
+                  <author>Oates, Titus, 1649-1705.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="articles">
+            <pb facs="tcp:57384:1"/>
+            <pb n="1" facs="tcp:57384:1" rendition="simple:additions"/>
+            <head>ARTICLES OF HIGH MISDEMEANOUR Humbly Offered and Preſented to the Conſideration of His SACRED MAJESTY, and the Right Honourable the LORDS and others of his Majeſties moſt Honourable Privy Council, againſt Sir WILLIAM SCROGGS, Knight, Lord Chief Juſtice of his Majeſties Court of <hi>Kings Bench, Weſtminſter,</hi> as followeth:</head>
+            <byline>By Dr. <hi>TITUS OATS,</hi> &amp;c.</byline>
+            <p n="1">
+               <label>I.</label> THat the ſaid Lord Chief Juſtice, contrary to his Oath, the Duty of his place, and in contempt of the King, his Crown and Dignity, did ſet at liberty ſeveral perſons accuſed upon Oath before him of High Treaſon, without their being Tryed, or otherwiſe Legally acquitted, as namely, the Lord <hi>Brudnel,</hi> &amp;c.</p>
+            <p n="2">
+               <label>II.</label> That at the Tryal of Sir <hi>George Wakeman</hi> and others, in the Seſſions-Houſe in the <hi>Old Baily,</hi> for High Treaſon, the ſaid Lord Chief Juſtice (according to the Dignity of his place) managing the ſaid Tryal, did Brow-beat and curb Doctor <hi>Titus Oats</hi> and Mr. <hi>William Bedlowe,</hi> two of the principal Witneſſes for the King in that Caſe, and did encourage the Jury Impannelled and Sworn to trye the ſaid Malefactors, againſt the ſaid Witneſſes, by his publick ſpeaking ſlightly and abuſively of them and their Evidence, and in the miſrepeating and omitting moſt material parts of their Evidence; whereby the ſaid parties indicted, were by the ſaid Jury acquitted of the Fact charged then againſt them, and fully proved by the ſaid Witneſſes.</p>
+            <p n="3">
+               <pb n="2" facs="tcp:57384:2" rendition="simple:additions"/>
+               <label>III.</label> That the ſaid Lord Chief Juſtice, after the ſaid Tryal of the ſaid Sir <hi>George Wakeman</hi> and others, for High Treaſon as aforeſaid, in the further abuſe of the ſaid Doctor <hi>Titus Oats</hi> and Mr. <hi>William Bedlowe,</hi> and in their great diſparagement, ſpeaking of them, (ſaid) That before the Tryal of Sir <hi>George Wakeman</hi> (meaning the aforeſaid Tryal) the Witneſſes, (mean<g ref="char:EOLhyphen"/>ing the ſaid Doctor <hi>Titus Oats</hi> and Mr. <hi>William Bedlowe</hi>) were to be be<g ref="char:EOLhyphen"/>lieved; But that at and after the ſaid Tryal they were not to be believed by him, nor ſhould not be believed by him; or to that very Effect.</p>
+            <p n="4">
+               <label>IV.</label> That the ſaid Lord Chief Juſtice, by colour of his Office hath taken upon him the power to Oppreſs by Impriſoning his Majeſties Loyal Sub<g ref="char:EOLhyphen"/>jects; namely, <hi>Henry Care,</hi> for the writing and cauſing to be printed di<g ref="char:EOLhyphen"/>vers Single-ſheet Books in Engliſh, called <hi>The Pacquet of Advice from Rome,</hi> for the Information and diſcovering of the Idolatries, Errours and Impieties of the <hi>Romiſh Church,</hi> to his Majeſties Loyal and Obedient Pro<g ref="char:EOLhyphen"/>teſtant Subjects, (in this Juncture of Affairs very uſefull) although the ſaid Lord Chief Juſtice neither did nor could alledge or charge the ſaid <hi>Care</hi> with any thing contained in the ſaid Book, that was any way Criminal, or derogatory to his Majeſty, his Laws, Crown and Dignity, and refuſed to take very good Bail for him, though offered, and after<g ref="char:EOLhyphen"/>wards leſs Bail taken for him upon his <hi>Habeas Corpus</hi> in Court, but by the ſaid Lord Chief Juſtice his means he was continued bound all the Term, and to his Good Behaviour, and at the end thereof untill the next Term, although no particular Crime was or could be proved againſt him, or laid to his charge.</p>
+            <p n="5">
+               <label>V.</label> That to the great Oppreſſion of his Majeſties Loyal Subjects, he the ſaid Lord Chief Juſtice, contrary to Law, and manifeſt breach of his Oath, hath without any reaſonable cauſe impriſoned a Feme Covert, and alſo divers other his Majeſties ſaid Subjects, and refuſed to take Bail though tendred, and the matter Bailable, as in the Caſe of Mrs. <hi>Jane Curtis,</hi> Mr. <hi>Francis Smith,</hi> &amp;c.</p>
+            <p n="6">
+               <label>VI.</label> That the ſaid Lord Chief Juſtice is very much addicted to Swearing and Curſing in his common Diſcourſe, and to Drink to Exceſs, to the great diſparagement of the Dignity and Gravity of his ſaid place: He did in his common Diſcourſe at Dinner, at a Gentlemans houſe of Qua<g ref="char:EOLhyphen"/>lity, publickly and openly uſe and utter many Oaths and Curſes, and there drank to Exceſs.</p>
+            <p n="7">
+               <pb n="3" facs="tcp:57384:2"/>
+               <label>VII.</label> That <hi>Charles Price</hi> being accuſed upon Oath before him the ſaid Lord Chief Juſtice, to be a <hi>Popiſh Prieſt</hi> and <hi>Jeſuite,</hi> and impriſoned for the ſame, and alſo divers other perſons accuſed upon Oath for High Treaſon, he the ſaid Lord Chief Juſtice upon Bail delivered, without conſulting his Majeſties Council or his Witneſſes, and againſt their conſents, divers of which ſaid perſons have not ſince appeared, but have forfeited their Recognizances, and the perſons not to be found.</p>
+            <p n="8">
+               <label>VIII.</label> That the ſaid Lord Chief Juſtice, to the great diſcouragement of his Ma<g ref="char:EOLhyphen"/>jeſties Loyal Proteſtant Subjects, and to the manifeſt encouragement of the <hi>Roman Catholick</hi> Subjects, when Informations have been duely and legally given to him, of the Abode or Perſon of any Popiſh Prieſt or Jeſuite, he hath in a ſlighting and ſcornful manner refuſed the ſame, and bid the Infor<g ref="char:EOLhyphen"/>mer go to Sir <hi>William Waller</hi> who buſied himſelf in ſuch matters mainly.</p>
+            <p n="9">
+               <label>IX.</label> That at the Tryal of <hi>Knox</hi> and <hi>Lane</hi> at the Barr of the <hi>Kings Bench</hi> Court, for their Miſdemeanour in endeavouring to take away the Credit of Doctor <hi>Titus Oats</hi> and Mr. <hi>William Bedlowe,</hi> two of the principal Wit<g ref="char:EOLhyphen"/>neſſes for his Majeſty, in the proving of the Conſpiracy and Conſpirators againſt his Majeſties Life, the Government of the Kingdoms of <hi>England, Scotland</hi> and <hi>Ireland,</hi> the Deſtruction of the Proteſtants and the Proteſtant Religion, and introducing and ſettling of Popery there; although the Evi<g ref="char:EOLhyphen"/>dence was ſo full and clear againſt them, that the Jury found them Guilty without going from the Barr, yet the ſaid Lord Chief Juſtice in further diſparagement and diſparaging of the Evidence of the ſaid Doctor <hi>Titus Oats</hi> and Mr. <hi>William Bedlowe,</hi> would not nor did not give any Charge to the ſaid Jury therein, but roſe up ſuddenly after the Evidence cloſed by the Councel, and left the ſaid Court abruptly, before the ſaid Jury had given in the ſame.</p>
+            <p n="10">
+               <label>X</label> That the ſaid Lord Chief Juſtice knowing that one <hi>William Osborn</hi> was in the Conſpiracy and contrivance with the ſaid <hi>Knox</hi> and <hi>Lane</hi> (in the laſt Article mentioned) to take away the Credit of the ſaid Doctor <hi>Titus Oates</hi> and Mr. <hi>William Bedlow;</hi> And knowing the ſaid Doctor <hi>Titus Oates</hi> and Mr. <hi>William Bedlowe</hi> to be materiall Witneſſes for his Majeſty in proving of the Conſpiracy and Conſpirators in the ſaid laſt Article men<g ref="char:EOLhyphen"/>tioned; And had been ſo againſt ſeveral of the ſaid Conſpirators that had been tryed, and were to be ſo againſt ſeveral others of the ſaid Conſpirators that were impeached or accuſed for the ſaid high Treaſon, and were to be tryed for the ſame; and knowing the ſaid <hi>William Os<g ref="char:EOLhyphen"/>burn</hi> had been detected before the Lords in Parliament aſſembled for his ſaid Conſpiracy and contrivance with the ſaid <hi>Knox</hi> and <hi>Lane,</hi> and that by his own Oath thereupon denying the fact in their ſaid Conſpiracy
+<pb n="4" facs="tcp:57384:3"/>and Contrivance to be true; Yet out of his Malice to the ſaid Doctor <hi>Titus Oates</hi> and Mr. <hi>William Bedlowe,</hi> and in as much as in him lay, to endeavour the diſparagement if not the ſuppreſſing of the further diſcove<g ref="char:EOLhyphen"/>ry of that helliſh and damnable Plot, he the ſaid Lord Chief Juſtice without the knowledge conſent or approbation of his Majeſty or any of his Learned Council in the Law, or the ſaid Doctor <hi>Titus Oates</hi> or Mr. <hi>William Bed<g ref="char:EOLhyphen"/>lowe,</hi> did voluntarily give the ſaid <hi>William Osborn</hi> liberty to make an <hi>Affi<g ref="char:EOLhyphen"/>davit</hi> before him upon Oath of the truth of the ſaid Fact he had before as aforeſaid denyed upon his Oath, with intent that the ſame might be made uſe of againſt the ſaid Doctor <hi>Titus Oates</hi> and Mr. <hi>William Bedlowe,</hi> to their diſparagement, and the apparent prejudice of his Majeſty againſt the ſaid Conſpirators in the ſaid High Treaſon.</p>
+            <p>That the ſaid Lord Chief Juſtice to manifeſt his ſlighting Opinion of the Evidence of the ſaid Doctor <hi>Titus Oates</hi> and Mr. <hi>Bedlowe,</hi> in the pre<g ref="char:EOLhyphen"/>ſence of his Sacred Majeſty and the Right Honourable the Lords and others of his Majeſties moſt Honourable Privy Council, did dare to ſay, That he had thought Doctor <hi>Titus Oates</hi> and Mr. <hi>William Bedlowe</hi> alwayes had an Accuſation ready againſt any Body.</p>
+            <p>That at the laſt Aſſize holden at <hi>Monmouth,</hi> the ſaid Lord Chief Juſtice in the preſence of ſeveral Juſtices of the Peace for the ſaid County, did ſay to Mr. <hi>William Bedlowe,</hi> that he did believe in his Conſcience that <hi>Richard Langhorn</hi> whom he condemned, died wrongfully, to the great diſparage<g ref="char:EOLhyphen"/>ment of his Majeſtyes Crown and Dignity, the Juſtice of the Court, the Jury and Evidence.</p>
+            <p>That the ſaid Lord Chief Juſtice, contrary to the Dignity of his Place, did make Merchandize of the Tryals of certain Prieſts to be tryed in <hi>Stafford-ſhire,</hi> and took Twenty Guinnies in Earneſt, and then ſold the ſaid Tryals to other perſons, refuſing to return the ſaid Twenty Guinnies to thoſe from whom he received them: And furthermore, before the Try<g ref="char:EOLhyphen"/>al of Sir <hi>George Wakeman,</hi> he the ſaid Lord Chief Juſtice did bargain with two Book-ſellers for one hundred and fifty Guinnies for them to print the Tryals, and in caſe they would not lay down the Money before he went into the Court, he would not go into the Court, but would go into the Country: And if the ſaid Tryal by reaſon of its length could not be finiſhed in one day, he would have one hundred Guinnies more; or words to that very Effect.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Janeway,</hi> 1680.</p>
+            <pb facs="tcp:57384:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
